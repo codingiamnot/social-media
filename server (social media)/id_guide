@@ -1,0 +1,4 @@
+1-user
+    the index in server users array
+2-post
+    op_id, index in op post array
